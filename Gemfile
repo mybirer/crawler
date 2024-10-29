@@ -6,7 +6,7 @@ gem "unf_ext"
 
 gem "sax-machine", github: "feedbin/sax-machine", branch: "feedbin"
 gem "feedjira",    github: "feedbin/feedjira",    branch: "f2"
-gem "http",        github: "feedbin/http",        branch: "feedbin"
+gem "http"
 gem "feedkit",     github: "feedbin/feedkit",     branch: "master"
 
 gem "bundler"
